@@ -1,5 +1,5 @@
 # About
-Haas Tech Club Website: haastechclub.github.io / haastechclub.com
+Haas Tech Club Website: [haastechclub.github.io](haastechclub.github.io) / [haastechclub.com](haastechclub.com)
 
 ## Advanced Usage
 
