@@ -1,5 +1,5 @@
 # About
-Haas Tech Club Main Website
+Haas Tech Club Website: haastechclub.github.io / haastechclub.com
 
 ## Advanced Usage
 
