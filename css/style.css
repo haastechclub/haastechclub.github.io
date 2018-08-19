@@ -9,6 +9,11 @@ body {
   }
 }
 
+.fa-bars {
+  color:#EEEEEE;
+  padding-top: 5px;
+}
+
 .navcolor {
   background-color: #003262
 }
