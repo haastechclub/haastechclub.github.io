@@ -1,11 +1,31 @@
 body {
   padding-top: 54px;
+  font-family: 'Poppins', serif;
 }
 
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
   }
+}
+
+.navcolor {
+  background-color: #003262
+}
+
+nav {
+  font-family: 'Arvo', serif;
+}
+
+nav a {
+  color: #EEEEEE;
+  font-size: 19px;
+  text-decoration: none;
+}
+
+nav a:hover{
+  color: #FDB515;
+  /*border-bottom: 5px solid purple;*/
 }
 
 .carousel-item {
